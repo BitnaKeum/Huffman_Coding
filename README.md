@@ -9,6 +9,12 @@ Huffman Encoder & Decoder
  At last, encode Huffman Table and save to Huffman_table.hbs<br>
  <br>
 
+<h4>input.txt</h4>
+
+![image](https://user-images.githubusercontent.com/37769713/99864959-c8225680-2be9-11eb-9d6b-9c9d2ff60941.png)
+
+<br>
+
 <h4>Huffman Table</h4>
  ASCII code  -  Frequency  -  Codeword <br>
 

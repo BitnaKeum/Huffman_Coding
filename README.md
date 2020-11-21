@@ -58,6 +58,6 @@ EOD(1011001100100) + Stuffing bit(00000) is inserted to the end of the encoding 
 
 ![image](https://user-images.githubusercontent.com/37769713/99864459-c30fd800-2be6-11eb-8f33-f9e64651108c.png)
 
-same to input.txt
+same with input.txt
 <br><br>
 
